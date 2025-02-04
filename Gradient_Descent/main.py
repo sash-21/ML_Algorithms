@@ -1,4 +1,4 @@
-# The gradient descent algorithm written over here is in totall raw format and you would never use it as it is, people generally tend to use libraries like SKLearn where these algos are predefined.
+# The gradient descent algorithm written over here is in totally raw format and you would never use it as it is, people generally tend to use libraries like SKLearn where these algos are predefined.
 
 import numpy as np
 
