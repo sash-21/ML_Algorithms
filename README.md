@@ -4,3 +4,5 @@
 2. Current List Contains:
    - **_Gradient Descent (GD)_** -> **(DONE)**
    - **_Support Vector Machine (SVM)_** -> **(DONE)**
+   - **_Decision Trees_** -> **(DONE)**
+   - **_K Nearest Neighbours_** -> **(DONE)**
